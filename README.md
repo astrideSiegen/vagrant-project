@@ -1,6 +1,6 @@
 # Environnement de Développement avec Vagrant
 
-Ce projet propose un environnement de développement reproductible à l'aide de [**Vagrant**](https://www.vagrantup.com/), avec provisionnement automatique de Docker et déploiement de l'application de démonstration **Terramino**.
+Ce projet propose un environnement de développement reproductible à l'aide de [**Vagrant**](https://www.vagrantup.com/), avec provisionnement automatique de Docker, k3s etc...
 
 ---
 
