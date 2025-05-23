@@ -47,7 +47,7 @@ mon-projet-vagrant/
    ```bash
    vagrant up
    ```
-   > Cela installe automatiquement Docker et déploie l'application Terramino.
+   > Cela installe automatiquement Docker et toutes les bibliothèques souhaitées.
 
 ---
 
@@ -59,6 +59,10 @@ vagrant ssh
 
 Une fois connecté :
 ```bash
+python3 --version
+sudo k3s --version
+sudo kubectl get nodes
+sudo kubectl get all
 
 ```
 
